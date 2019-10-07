@@ -77,3 +77,12 @@ body{
 .about-img{
     margin-top: -50px;
 }
+
+#faq a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#faq .card-header{
+    background: #333333;
+}
