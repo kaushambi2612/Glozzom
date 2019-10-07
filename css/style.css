@@ -45,3 +45,17 @@
     /* to get the overlay effect */
     background: rgba(0,0,0,0.7);
 }
+
+#video-play{
+    position: relative;
+    min-height: 200px;
+    background: url(../img/media.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 0 -300px;
+    text-align: center;
+}
+
+#video-play a {
+ color: #ffffff;
+}
